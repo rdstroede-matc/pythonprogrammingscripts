@@ -1,0 +1,5 @@
+commit 96ac5eaedbd4452500767a6823b9d1c65e621c41
+Author: Ryan Stroede <rdstroede@madisoncollege.edu>
+Date:   Mon Jan 25 18:16:25 2021 -0600
+
+    Initial commit of GitHub exercise
